@@ -2,18 +2,21 @@
   "name": "mem-redis",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ronakj/mem-redis.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ronak Jain",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ronakj/mem-redis/issues"
   },
-  "homepage": "https://github.com/ronakj/mem-redis#readme"
+  "homepage": "https://github.com/ronakj/mem-redis#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "ioredis": "^4.17.3"
+  }
 }
