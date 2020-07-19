@@ -1,0 +1,19 @@
+{
+  "name": "mem-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronakj/mem-redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronakj/mem-redis/issues"
+  },
+  "homepage": "https://github.com/ronakj/mem-redis#readme"
+}
